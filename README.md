@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brandon Lau</h1>
 <h3 align="center">A passionate Software Engineer from NYC</h3>
+<br>
 
 - 🏢 I’m currently working at [OXOS Medical](https://oxos.com) as a Backend Developer
 

@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working on a side project called [timetable](https://trytimetable.com)
 
-- 🌱 I’m currently learning **Flutter, Python, and more for my side project**
+- 🌱 I’m currently learning **Flutter, Python, and more for my side projects**
 
 - 👨‍💻 All of my projects are available at [brandon-lau.com](https://brandon-lau.com)
 

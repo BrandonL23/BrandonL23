@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Brandon Lau</h1>
 <h3 align="center">A passionate Software Engineer from NYC</h3>
 
-- 🏢 I’m currently working at [OXOS Medical](oxos.com) as a Backend Developer
+- 🏢 I’m currently working at [OXOS Medical](https://oxos.com) as a Backend Developer
 
-- 🔭 I'm currently working on a side project called [timetable](trytimetable.com)
+- 🔭 I'm currently working on a side project called [timetable](https://trytimetable.com)
 
 - 🌱 I’m currently learning **Flutter, Python, and more for my side project**
 
-- 👨‍💻 All of my projects are available at [brandon-lau.com](brandon-lau.com)
+- 👨‍💻 All of my projects are available at [brandon-lau.com](https://brandon-lau.com)
 
 - 📫 How to reach me **brandondcb@yahoo.com**
 

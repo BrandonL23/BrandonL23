@@ -2,17 +2,15 @@
 <h3 align="center">A passionate Software Engineer from NYC</h3>
 <br>
 
-- 🏢 I’m currently working at [OXOS Medical](https://oxos.com) as a Backend Developer
+- 🏢 I’m currently working at [Columbia University Irving Medical Center](https://www.cuimc.columbia.edu/) as a Backend Developer
 
-- 🔭 I'm currently working on a side project called [timetable](https://trytimetable.com)
-
-- 🌱 I’m currently learning **Flutter, Python, and more for my side projects**
+- 🌱 I’m currently learning **Flutter, React, and more for my side projects**
 
 - 👨‍💻 All of my projects are available at [brandon-lau.com](https://brandon-lau.com)
 
-- 📫 How to reach me **brandondcb@yahoo.com**
+- 📫 How to reach me **brandondcblau@gmail.com**
 
-- ⚡ Fun fact **I have a great appreciation for nature and aquascaping**
+- ⚡ Fun fact **I have a great appreciation for nature, aquascaping, and bonsai**
 
 ### Connect With Me
 <p align="left">
